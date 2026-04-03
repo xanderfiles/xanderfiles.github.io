@@ -1,22 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "Error",
-        "link": "https://www.youtube.com/channel/UC8fyd3cTZu-9nz2-pthrlJg"
-    },
-    {
-        "role": "admin",
-        "name": "EndGamer7896",
+        "name": "List Owner",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "admin",
-        "name": "XanderGMDD",
-        "link": "https://www.youtube.com/@kier_xander"
+        "name": "List Admin",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "helper",
+        "name": "List Helper",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "trial",
+        "name": "Trial List Helper",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "dev",
-        "name": "XanderGMDD",
-        "link": "https://www.youtube.com/@kier_xander"
+        "name": "List Coder",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
